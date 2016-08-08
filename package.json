@@ -1,0 +1,21 @@
+{
+  "name": "RabbitMQ-api",
+  "version": "1.0.0",
+  "description": "Sample fromhttps://www.rabbitmq.com/tutorials/tutorial-one-javascript.html ",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/VMarisevs/RabbitMQ-js-sample.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "RabbitMQ",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.4.2"
+  }
+}
